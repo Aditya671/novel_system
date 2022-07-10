@@ -1,0 +1,61 @@
+{
+  "name": "novel_system",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.2.1",
+    "axios": "^0.22.0",
+    "firebase": "^8.8.1",
+    "formik": "^2.2.9",
+    "lodash": "^4.17.21",
+    "node-sass": "^4.14.1",
+    "nodemon": "^2.0.13",
+    "npm-check-updates": "^11.8.5",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-redux": "^7.2.5",
+    "react-router": "^5.2.1",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "4.0.3",
+    "react-toastify": "^8.0.3",
+    "redux": "^4.1.1",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.3.0",
+    "reselect": "^4.0.0",
+    "rest-countries-node": "^1.1.4",
+    "sass-loader": "^12.1.0",
+    "styled-components": "^5.3.1",
+    "web-vitals": "^2.1.1",
+    "yup": "^0.32.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {}
+}

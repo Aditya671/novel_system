@@ -1,0 +1,14 @@
+.Toastify__toast {
+  padding: 4px;
+  margin-bottom: 0px;
+  background: #2c3e66 !important;
+  color: #fff !important;
+}
+.Toastify__close-button > svg {
+  background: #000 !important;
+  color: #fff !important;
+}
+.Toastify__progress-bar--dark {
+  background: #fff !important;
+  margin-bottom: 5px;
+}

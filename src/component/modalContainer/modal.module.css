@@ -1,0 +1,44 @@
+.modal-backdrop{
+   position: fixed;
+   top:0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   background-color: rgba(0,0,0.39);
+   z-index: 10;
+}  
+.modal{
+   width: 100%;
+   z-index: 12;
+   position: absolute;
+   top:50%;
+   left: 50%;
+   right: auto;
+   bottom: auto;
+   transform: translate(-50%,-50%);
+}
+.modal-md{
+   max-width: 680px;
+}
+.modal-sm {
+   max-width: 380px;
+}
+.modal-content{
+   display: inline-block;
+   padding: 10px 12px;
+}
+.modal-header{
+   display: inline-block;
+   width: 100%;
+}
+.modal-title h3{
+   font-size: 16px;
+}
+.modal-body{
+   display: inline-block;
+   width: 100%;
+}
+.modal-footer{
+   display: inline-block;
+   width: 100%;
+}

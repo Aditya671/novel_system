@@ -1,0 +1,1 @@
+export const componentDimensions = React.createContext({})
